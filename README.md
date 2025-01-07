@@ -42,10 +42,3 @@ The following analyses were performed:
 8. **Regional Comparison**: Compared population growth between Aruba and Africa Eastern and Southern.
 9. **Historical Trends and Projections**: Used linear regression to predict future population growth.
 
----
-
-## How to Run the Code
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/flubber-lab/world-population-analysis.git
-   cd world-population-analysis
